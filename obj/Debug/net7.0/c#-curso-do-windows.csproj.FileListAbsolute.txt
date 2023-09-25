@@ -12,3 +12,17 @@ C:\Users\nynha\OneDrive\Documentos\c#-curso-do-windows\obj\Debug\net7.0\refint\c
 C:\Users\nynha\OneDrive\Documentos\c#-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.pdb
 C:\Users\nynha\OneDrive\Documentos\c#-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.genruntimeconfig.cache
 C:\Users\nynha\OneDrive\Documentos\c#-curso-do-windows\obj\Debug\net7.0\ref\c#-curso-do-windows.dll
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\bin\Debug\net7.0\c#-curso-do-windows.exe
+c:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\bin\Debug\net7.0\c#-curso-do-windows.deps.json
+c:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\bin\Debug\net7.0\c#-curso-do-windows.runtimeconfig.json
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\bin\Debug\net7.0\c#-curso-do-windows.dll
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\bin\Debug\net7.0\c#-curso-do-windows.pdb
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.AssemblyInfoInputs.cache
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.AssemblyInfo.cs
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.csproj.CoreCompileInputs.cache
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.dll
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\refint\c#-curso-do-windows.dll
+C:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.pdb
+c:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\c#-curso-do-windows.genruntimeconfig.cache
+c:\Users\nynha\OneDrive\Documentos\cs-curso-do-windows\obj\Debug\net7.0\ref\c#-curso-do-windows.dll
